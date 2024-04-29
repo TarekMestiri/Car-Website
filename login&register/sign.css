@@ -26,7 +26,7 @@ body{
   transform: translate(-50%, -50%);
   background: rgba(0,0,0,.5);
   box-sizing: border-box;
-  box-shadow: 0 15px 25px rgba(0,0,0,.6);
+  box-shadow: 0 15px 25px rgba(0, 0, 0, 0.6);
   border-radius: 10px;
 }
 .form input {
@@ -42,17 +42,17 @@ body{
   
 }
 h2{
- color:rgb(143, 9, 9);
+ color:rgb(209, 201, 201);
 }
 
 
 .form .message {
   margin: 15px 0 0;
-  color: #b3b3b3;
+  color: #e2dddd;
   font-size: 12px;
 }
 .form .message a {
-  color: #289bb8;
+  color: #0740aa;
   text-decoration: none;
 }
 .form .register-form {
@@ -62,7 +62,7 @@ h2{
   position: relative;
   display: inline-block;
   padding: 10px 20px;
-  color: #289bb8;
+  color: #aaadad;
   font-size: 16px;
   text-decoration: none;
   overflow: hidden;
@@ -71,13 +71,13 @@ h2{
   letter-spacing: 2px
 }
 .btn:hover {
-  background: #289bb8;
-  color: #fff;
+  background: #c9cdce;
+  color: #b3b0b0;
   border-radius: 5px;
-  box-shadow: 0 0 5px #289bb8,
-              0 0 25px #289bb8,
-              0 0 50px #289bb8,
-              0 0 100px #289bb8;
+  box-shadow: 0 0 5px #cccdce,
+              0 0 25px #b9bcbd,
+              0 0 50px #b2b5b6,
+              0 0 100px #a2a4a5;
 }
 
 .btn span {
@@ -146,7 +146,7 @@ h2{
   left: 0;
   width: 2px;
   height: 100%;
-  background: linear-gradient(360deg, transparent, #289bb8);
+  background: linear-gradient(360deg, transparent, #afb3b4);
   animation: btn-anim4 1s linear infinite;
   animation-delay: .75s
 }

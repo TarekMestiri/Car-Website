@@ -38,17 +38,17 @@
     {
       "title": "Mustang GT 2006",
       "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "smallImage": "img/portfolio/06-small.png"
     },
     {
       "title": "Golf MK4 GTI",
       "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "smallImage": "img/portfolio/02-small.png"
     },
     {
       "title": "Honda Civic Type R",
       "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "smallImage": "img/portfolio/08-small.png"
     },
     {
       "title": "Cheverolet Corvette C6",
@@ -58,7 +58,7 @@
     {
       "title": "Toyoto MR2",
       "largeImage": "img/portfolio/07-large.WEBP",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "smallImage": "img/portfolio/07-small.png"
     },
     {
       "title": "Nissan Silvia S15",
