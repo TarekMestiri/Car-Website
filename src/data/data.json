@@ -1,0 +1,136 @@
+{
+  "Header": {
+    "title": "We are Car enthusiasts",
+    "paragraph": "Passion for cars is an enduring love affair with the beauty, power, and freedom they represent. It's an obsession that transcends mere vehicles, embodying a profound connection to craftsmanship, innovation, and individuality."
+  },
+  "About": {
+    "paragraph": "At Car Enthusiasts Hub, we're more than just a community, we're a passionate collective fueled by our love for everything automotive. From classic beauties to cutting-edge marvels, we live and breathe cars. Join us as we explore the exhilarating world of automotive culture, share our stories, and connect with fellow enthusiasts who share our unwavering passion for the open road, timeless design, and the thrill of the drive.",
+    "Why": [
+      "Passionate Community",
+      "Expertise and Insight",
+      "Engaging Content",
+      "Interactive Experience",
+      "Unrivaled Connection"
+    ],
+    "Why2": [
+      "Diverse Resources",
+      "Exclusive Offers",
+      "Reliable Support",
+      "Cutting-edge Technology"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Honda Integra",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Mercedes C180",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "BMW E46",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Mustang GT 2006",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Golf MK4 GTI",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Honda Civic Type R",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Cheverolet Corvette C6",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.png"
+    },
+    {
+      "title": "Toyoto MR2",
+      "largeImage": "img/portfolio/07-large.WEBP",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Nissan Silvia S15",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "name": "Car Reviews",
+      "text": "Get expert insights and detailed reviews on the latest car models."
+    },
+    {
+      "name": "Maintenance Tips",
+      "text": "Access valuable tips and guides to keep your vehicle in top condition."
+    },
+    {      
+      "name": "Events Calendar",
+      "text": "Stay updated on upcoming automotive events, meetups, and gatherings."
+    },
+    {      
+      "name": "Classifieds Section",
+      "text": "Buy, sell, or trade vehicles and automotive parts within our community."
+    },
+    {      
+      "name": "Technical Support",
+      "text": "Receive assistance and troubleshooting for automotive issues from our team of experts"
+    },
+    {
+      "name": "Exclusive Discounts",
+      "text": "Enjoy special discounts and offers on automotive products and services through our partnerships."
+    }
+  ],
+
+  "Team": [
+    {
+      "name": "Tarek Jlassi",
+      "job": "Founder/Tuner Cars"
+    },
+    {
+      "name": "Brahim Jedidi",
+      "job": "Technical Support"
+    },
+    {
+      "name": "Mohamed Ben Massouda",
+      "job": "Senior Mechanic"
+    },
+    {
+      "name": "Firas Ben Said",
+      "job": "Muscle Cars Specialist"
+    }, 
+    {
+      "name": "Ahmed Messoudi",
+      "job": "Coupe Specialist"
+    },
+    {
+      "name": "Ahmed Bouchiba",
+      "job": "Sedan Specialist"
+    },
+    {
+      "name": "Med Amin Bougi",
+      "job": "4WD Specialist"
+    },
+    {
+      "name": "Aziz Bahloul",
+      "job": "SUV Specialist"
+    }
+      
+  ],
+  "Contact": {
+    "address": "Sousse",
+    "phone": "+260 56 105 880",
+    "email": "tarek.jlassi.monastiri@gmail.com"   
+  }
+}
